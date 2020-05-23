@@ -10,4 +10,4 @@ For the Jetson Drone, I kept in mind speed, agility, and ease of use when design
 
 The keep the weight low, I decided to 3D print the entire frame. I initially planned to use thinner laser cut acrylic parts but after testing, the thin arcylic arms were too flexible. The frame is made out of two pieces that are held together by a bracket on each side and the electronics mounting structure. However, standard PLA plastic was too flexible even with a high infill. To increase rigidity, I printed the frame out of a chopped carbon fiber and PLA blend. This provides the rigidity necessary in the drone arms while keeping the overall weight of the frame relatively low. 
 
-"pictures of frame here, refer to portfolio"
+<p><img src="jetson-drone/images/testFrame.jpg" width="43%"/><img src="jetson-drone/images/droneView1.jpg" width="57%"/></p>
