@@ -13,5 +13,5 @@ Alongside the Jetson, an Arduino Uno is responsible for communicating the motor 
 
 There are 3 main sensors on the drone that give it the ability to do what it can do. A BNO055 IMU is connected to the Jeston's GPIO pins. This is necessary to read the current pitch, roll, and yaw angles to make adjustments to maintain a specific orientation. Along with this, 2 cameras are onboard. The main camera is a downward facing USB camera. This camera is meant to identify the path of the desired trajectory for the drone. Using the identified path and the current trajectory of the drone, I am able to calculate the error angle. This angle is used by the LQR controller to calculate the new angular velocities of each motor. 
 
-<p align="center"><img src="https://github.com/balianirudh/jetson-drone/blob/master/images/arduinoCloseUp.jpg" width="400" height="300"/><img src="https://github.com/balianirudh/jetson-drone/blob/master/images/USBCamera.jpg" width="400" height="300"/></p>
+<p align="center"><img src="https://github.com/balianirudh/jetson-drone/blob/master/images/arduinoCloseUp.jpg" width="400" height="300"/> <img src="https://github.com/balianirudh/jetson-drone/blob/master/images/USBCamera.jpg" width="400" height="300"/></p>
 <p align="center"> Jetson's onboard camera and mounted Arduino (left), Downward facing USB camera for line following (right) </p>
