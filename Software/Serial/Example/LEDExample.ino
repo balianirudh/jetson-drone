@@ -10,9 +10,6 @@ This code is an adaptation of Robin2's Serial Input Basics Arduino Forum post in
 serial channel. Credit goes to him for developing the recvData() function that I have used in this program. If you are interested in learning different serial
 communication techniques in Arduino I would refer you to Robin2's forum post: https://forum.arduino.cc/index.php?topic=288234.0
 
-If you are interested learning how to write data from a C++ file to an Arduino, refer to my GitHub repository for the Jetson drone project in the software
-folder: https://github.com/balianirudh/jetson-drone
-
 last modified 5/30/2018
 by Anirudh Bali
 */
