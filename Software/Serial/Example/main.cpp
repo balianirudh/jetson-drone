@@ -1,3 +1,15 @@
+/*
+LED Example
+
+This LED Example code is meant to demonstrate the serial communication between the Jetson and Arduino. With this program, there is no need to calculate
+different motor values, instead, a C++ file sends data that tells the Arduino how long to turn off its onboard LED. This code is responsible for sending the
+data to the Arduino from a C++ program that is used to turn off an LED. What you should see is that the Arduino's onboard LED should turn on for 2 seconds and 
+turn off for 3 seconds in a loop.
+
+last modified 5/31/2018
+by Anirudh Bali
+*/
+
 #include <iostream>
 #include <stdio.h>
 #include <string.h>
