@@ -1,6 +1,6 @@
 # Serial Communication with Arduino LED
 
-Current code only works on Windows. In Linux, the data is sending to the Arduino and the Arduino is receiving it but I don't see the correct behavior from the LED. I believe the problem is that I need to configure the path of the Arduino so the Arduino recieved the correct data. Looking into how I can solve this issue.
+*Current code only works on Windows. In Linux, the data is sending to the Arduino and the Arduino is receiving it but I don't see the correct behavior from the LED. I believe the problem is that I need to configure the path of the Arduino so the Arduino recieved the correct data. Looking into how I can solve this issue.*
 
 Serial communication is vital to the function of the drone because without it the drone would not receive motor commands. I am sure there is a way to use the GPIO pins of the Jetson to send PWM signals to the motor controllers, however, the Arduino platform makes this task straightforward. 
 
