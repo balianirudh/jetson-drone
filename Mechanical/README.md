@@ -5,7 +5,7 @@
 The first drone I designed featured laser cut acrylic arms and a top plate that were connected to the power distribtution board by 3D printed brackets. Although this was a sturdy frame and naturally stable due to its weight, it was too heavy for the motor and propeller system I was using. This gave the drone a very short flight time.
 
 <p align="center"><img src="https://github.com/balianirudh/jetson-drone/blob/master/images/acrylicFrame.jpg" width="400" height="300"/></p>
-<p align="center">Acrylic drone frame that was too heavy for prolonged flight times</p>
+<p align="center">Acrylic frame that was too heavy for prolonged flight times</p>
 
 For the Jetson Drone, I kept in mind speed, agility, and ease of use when designing the frame. Alogn with this, I designed the frame specifically to house the NVIDIA Jetson TX2 carrier board as it has a fairly large footprint compared to most flight controllers used in drones.
 
