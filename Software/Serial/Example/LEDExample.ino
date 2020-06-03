@@ -10,7 +10,7 @@ This code is an adaptation of Robin2's Serial Input Basics Arduino Forum post in
 serial channel. Credit goes to him for developing the recvData() function that I have used in this program. If you are interested in learning different serial
 communication techniques in Arduino I would refer you to Robin2's forum post: https://forum.arduino.cc/index.php?topic=288234.0
 
-last modified 5/30/2018
+last modified 05/30/2020
 by Anirudh Bali
 */
 
