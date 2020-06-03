@@ -6,7 +6,7 @@ different motor values, instead, a C++ file sends data that tells the Arduino ho
 data to the Arduino from a C++ program that is used to turn off an LED. What you should see is that the Arduino's onboard LED should turn on for 2 seconds and 
 turn off for 3 seconds in a loop.
 
-last modified 5/31/2018
+last modified 05/31/2020
 by Anirudh Bali
 */
 
