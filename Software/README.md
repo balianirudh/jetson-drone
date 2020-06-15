@@ -10,7 +10,8 @@ There are two main controllers that have been implemented on the Jetson drone. T
 
 Rather than using a PID controller for the line following aspect of the drone, I decided to implement an LQR controller. The LQR controller is responisble for calculating each motor's angular velocity to follow a given path. This controller was used because of how it is based on the state-space representation of the system. Unlike other controller, LQR taes into account the dynamics of the drone which is advantageous when trying to move in a specific way.
 
-"add picture of drone on test stand"
+<p align="center"><img src=https://github.com/balianirudh/jetson-drone/blob/master/images/testingStand.png width=589 height=350></p>
+<p align="center"> Drone on test stand for stability tuning </p>
 
 ## Vision System
 
