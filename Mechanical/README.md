@@ -15,3 +15,5 @@ The keep the weight low, I decided to 3D print the entire frame. I initially pla
 <p align="center">Test 3D print of frame using standard PLA (left), final drone assembly with chopped carbon fiber PLA frame (right)</p>
 
 ## Propulsion
+
+The propulsion system of a drone is made up of its motor, electronic speed controller (ESC), and propeller. The combination of the three dictate the total thrust of the drone which impacts the drones overall agility. For the Jetson Drone, I chose to use the DJI Snail Propulstion system. This propulsion system was designed for racing drones meaning its lightweight, and depending on the propeller, has a high max thrust (2800g-5200g). 
